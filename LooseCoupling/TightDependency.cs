@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LooseCoupling
+namespace LooseCoupling_TightDependency
 {
     class MailSender
     {
