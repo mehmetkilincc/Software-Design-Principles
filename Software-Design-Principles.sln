@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LooseCoupling", "LooseCoupl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{9199412E-8B5C-4BF8-858D-97F0EE035564}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{B79241EE-A1C9-46E1-BA29-054F6CC11837}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9199412E-8B5C-4BF8-858D-97F0EE035564}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9199412E-8B5C-4BF8-858D-97F0EE035564}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9199412E-8B5C-4BF8-858D-97F0EE035564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B79241EE-A1C9-46E1-BA29-054F6CC11837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79241EE-A1C9-46E1-BA29-054F6CC11837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79241EE-A1C9-46E1-BA29-054F6CC11837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79241EE-A1C9-46E1-BA29-054F6CC11837}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
